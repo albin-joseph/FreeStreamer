@@ -30,5 +30,9 @@
     <title>BBC Sports</title>
     	<link>http://www.bbc.co.uk/radio/listen/live/r5lsp_aaclca.pls</link>
     </item>
+    <item>
+    <title>Sky Radio</title>
+    	<link>http://provisioning.streamtheworld.com/pls/skyradioaac.pls</link>
+    </item>
   </channel>
 </rss>
