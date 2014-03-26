@@ -42,5 +42,9 @@
     <title>NonStopPlay</title>
     	<link>http://www.nonstopplay.com/listen.pls</link>
     </item>
+     <item>
+    <title>iceCast</title>
+    	<link>http://icecast.commedia.org.uk:8000/asianfever.mp3.m3u</link>
+    </item>
   </channel>
 </rss>
