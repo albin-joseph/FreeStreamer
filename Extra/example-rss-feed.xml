@@ -38,5 +38,9 @@
     <title>MFM</title>
     	<link>http://mfm.ice.infomaniak.ch/playlists/mfm-64.aac.m3u</link>
     </item>
+     <item>
+    <title>NonStopPlay</title>
+    	<link>http://www.nonstopplay.com/listen.pls</link>
+    </item>
   </channel>
 </rss>
