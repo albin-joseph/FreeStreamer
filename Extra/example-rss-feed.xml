@@ -34,5 +34,9 @@
     <title>Sky Radio</title>
     	<link>http://provisioning.streamtheworld.com/pls/skyradioaac.pls</link>
     </item>
+    <item>
+    <title>MFM</title>
+    	<link>http://mfm.ice.infomaniak.ch/playlists/mfm-64.aac.m3u</link>
+    </item>
   </channel>
 </rss>
