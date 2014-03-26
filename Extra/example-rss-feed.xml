@@ -46,5 +46,9 @@
     <title>iceCast</title>
     	<link>http://icecast.commedia.org.uk:8000/asianfever.mp3.m3u</link>
     </item>
+    <item>
+    <title>Queen's Radio</title>
+    	<link>http://quis.qub.ac.uk:8080/QRLQ.m3u</link>
+    </item>
   </channel>
 </rss>
